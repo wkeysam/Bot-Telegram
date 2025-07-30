@@ -5,7 +5,7 @@ BOT_TOKEN="${TELEGRAM_BOT_TOKEN}"
 CHAT_ID="${TELEGRAM_CHAT_ID}"
 API_URL="https://api.telegram.org/bot${BOT_TOKEN}"
 REGION="eu-north-1"
-PROFILE="sediaz"
+PROFILE="*****"
 
 echo "[INFO] Bot de Telegram arrancado..."
 
